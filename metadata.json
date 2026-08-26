@@ -1,0 +1,6 @@
+{
+  "name": "AI Income Studio (এআই আয় স্টুডিও)",
+  "description": "একটি আধুনিক AI SaaS প্ল্যাটফর্ম যা ফ্রিল্যান্সিং, কনটেন্ট তৈরি, বিজ্ঞাপন কপি ও অনলাইন কাজের মাধ্যমে আয় করার জন্য তৈরি।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
